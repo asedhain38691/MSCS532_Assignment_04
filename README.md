@@ -1,4 +1,4 @@
-# Heap Sort Benchmark Suite (Python)
+# Heap Sort Benchmark Suite
 
 This project benchmarks heap sort algorithm:
 
@@ -41,4 +41,14 @@ Each benchmark was run 100 times on arrays of size 1000.
 
 ```
 python3 heap_sort.py
+```
+
+
+# Priority Query Scheduling
+
+
+## 🚀 How to Run
+
+```
+python3 priority_queue.py
 ```
